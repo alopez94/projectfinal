@@ -1,13 +1,76 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.mpbtn {
+    background-color: rgb(181, 53, 246);
+    color: rgb(255, 255, 255);
+    border: 2px solid transparent;
+    overflow: hidden;
+    transition: all 0.5s ease 0s !important;
+    border-radius: 25px;
+    margin-left: 25px;
+ 
+    
+    
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.mpbtnsec {
+
+    background: none;
+    border: 0px;
+    color: "white";
+    color: rgb(255, 255, 255);
+    box-shadow: none;
+    border-radius: 25px;
+    pointer-events:visibleStroke;
+    padding-left: 25px;
+    padding-right: 25px;
+
 }
+
+.mpbgrnvi {
+
+    
+    position:relative;
+    z-index:-1;
+    top:0;
+    left:0;
+    width:100%; 
+    height:100vh;
+    background-color: rgb(32, 4, 68);
+    
+    
+
+}
+
+.mpbordertext{
+
+    border-bottom-color:  rgb(181, 53, 246);
+    border-bottom: 5px;
+    text-align: center;
+    font-size: large;
+}
+
+.mptextsubs {
+
+    color: white;
+    position:static;
+    font-size: medium;
+}
+
+.cardsText{
+    color:rgb(179, 177, 177);
+    text-align: center;
+    font-size: medium;
+
+}
+
+.cards {
+   
+    background-color: rgb(32, 4, 68);
+   
+    
+}
+
+
+
+
+
