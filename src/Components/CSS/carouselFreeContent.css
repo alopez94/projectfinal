@@ -1,0 +1,56 @@
+.mainText {
+
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 35px;
+    
+
+}
+
+.mainbackground {
+    background-color: rgb(32, 4, 68);
+    height: 70%;
+    padding: 35px;
+    align-content: center;
+    text-align: center;
+}
+
+.cards {
+
+    
+    margin: 10px;
+    cursor: pointer;
+    
+
+}
+
+.cardimg2 {
+
+    height: 650px;
+    background: rgb(32,4,68);
+    background: linear-gradient(0deg, rgba(32,4,68,1) 0%, rgba(32,4,68,0.6561975131849616) 85%);
+
+}
+
+.cardsText2 {
+    
+    color: rgb(216,1,200);
+    margin-top: -120px;
+    font-size: 35px;
+    font-style: bold;
+}
+
+.carouselconteiner {
+
+
+    text-align: center;
+
+}
+
+.bt2 {
+ 
+    color: aquamarine;
+
+}

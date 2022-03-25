@@ -1,0 +1,76 @@
+.titlemainbrands {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+
+
+.mainbackground {
+
+    background-color: rgb(3, 3, 40);
+
+}
+
+.maincarddiv {
+    background-color: rgb(45,16,85);
+    padding: 45px;
+    border-radius: 15px;
+    
+}
+
+iconbrandImageCarousel {
+    border-radius: 15px;
+}
+
+.iconsandImageCarousel{
+    padding-bottom: 40px;
+}
+
+.imgIconbtn {
+
+    cursor: pointer;
+    
+}
+
+.btncontainerbrands {
+
+    margin-top: 45px;
+
+}
+
+.btn1{
+    background-image: url("../../../public//img/hbomaxbtn.png");
+    width: 200px;
+    height: 85px;
+    border: none;
+}
+
+.btn2{
+    background-image: url("../../../public//img/hbobtn.png");
+    width: 200px;
+    height: 85px;
+    border: none;
+}
+
+.btn3{
+    background-image: url("../../../public//img/warnerbtn.png");
+    width: 200px;
+    height: 80px;
+    border: none;
+}
+
+.btn4{
+    background-image: url("../../../public//img/dcbtn.png");
+    width: 200px;
+    height: 85px;
+    border: none;
+}
+
+.btn5{
+    background-image: url("../../../public//img/CNbtn.png");
+    width: 200px;
+    height: 85px;
+    border: none;
+}
+

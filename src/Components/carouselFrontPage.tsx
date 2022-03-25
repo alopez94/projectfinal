@@ -35,10 +35,12 @@ const CarouselFp: React.FC = () => {
     <div style={{backgroundColor: "rgb(32, 4, 68)", paddingTop: "150px", paddingBottom: "75px"}}>
         
         <h1 style={{textAlign: "center", color: "white"}}>Alerta de spoiler: HBO Max tiene novedades para ti</h1>
-        <Carousel responsive={responsive}
+        <Carousel 
+        responsive={responsive}
         transitionDuration={0.1}
         infinite={true}
-        customTransition="all 1"
+        customTransition="all .5"
+        autoPlaySpeed={700}
         
         >
             
